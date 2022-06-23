@@ -9,7 +9,6 @@ Ultimately it's workflow would be something like this:
 4. Write the classes to a postgres database
 """
 
-from unicodedata import decimal
 import sqlalchemy
 from sqlalchemy.orm import declarative_base, Session
 import argparse
