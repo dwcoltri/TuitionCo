@@ -1,0 +1,7 @@
+userssn,fullname,date,amount,expensetype,description
+100,John Doe,01/01/2022,222,tuition,test description
+222,John John,01/03/2022,333,tuition,test description
+333,John Paul,01/04/2022,444,tuition,test description
+444,John Jones,01/05/2022,555,tuition,test description
+555,John Man,01/06/2022,666,tuition,test description
+666,John Guy,01/07/2022,777,tuition,test description

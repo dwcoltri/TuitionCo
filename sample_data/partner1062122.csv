@@ -1,0 +1,11 @@
+date,ssn,firstname,lastname,expense,amount,email
+01/01/2022,100,John,Doe,tuition,100,john.doe@gmail.com
+01/02/2022,100,John,Doe,tuition,145,john.doe@gmail.com
+01/03/2022,100,John,Doe,tuition,324,john.doe@gmail.com
+01/04/2022,100,John,Doe,tuition,675,john.doe@gmail.com
+06/03/2022,101,John,Roe,tuition,222,john.roe@gmail.com
+06/04/2022,102,John,Foe,tuition,444,john.foe@gmail.com
+06/05/2022,103,John,Moe,tuition,555,john.moe@gmail.com
+06/06/2022,104,John,Sow,tuition,666,john.sow@gmail.com
+06/07/2022,105,John,Flow,tuition,777,john.flow@gmail.com
+06/08/2022,106,John,Bow,tuition,999,john.bow@gmail.com
